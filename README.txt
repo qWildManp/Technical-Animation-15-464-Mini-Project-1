@@ -1,4 +1,4 @@
-Here is my implementations of miniproject 1
+Here is my implementations of miniproject 1 based on CMU ACM Viewer
 I have implement two IK mechanics method: CCD IK and Transpose Jacobian IK, I tried using Pesudo-Jacobian IK,but seems invert matrix function have somthing wrong.
 
 In the folder you can see:
